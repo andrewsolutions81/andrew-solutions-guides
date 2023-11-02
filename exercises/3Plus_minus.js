@@ -72,9 +72,9 @@ function plusMinus(arr) {
 
   }
 // get the proportion with the dividion with 6 decimals
-  positives = positives/nElements.toFixed(6)
-  negatives = negatives/nElements.toFixed(6)
-  zeros = zeros/nElements.toFixed(6)
+positives = (positives / nElements).toFixed(6);
+negatives = (negatives / nElements).toFixed(6);
+zeros = (zeros / nElements).toFixed(6);
 
   //print in separate lines
   console.log(positives);
