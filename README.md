@@ -7,12 +7,15 @@ Technical interviews exercises, books and links.
 ## Exercises
 
 
-1. [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript) - [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/1.ReversedStrings.js)
+1. [Reversed Strings](https://www.codewars.com/kata/5168bb5dfe9a00b126000018/train/javascript) - [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/1_reversed_strings.js)
 
 1. [Mini max sum hackerank](https://www.hackerrank.com/challenges/one-month-preparation-kit-mini-max-sum/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one
-) - [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/2mini_max_sum.js)
+) - [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/2_mini_max_sum.js)
 
-1. [Plus minus](https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one) - [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/3Plus_minus.js)
+1. [Plus minus](https://www.hackerrank.com/challenges/one-month-preparation-kit-plus-minus/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one) - [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/3_plus_minus.js)
+
+1. [Time Conversion](https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one) [code](https://github.com/andrewsolutions81/andrew-solutions-guides/blob/main/exercises/4_time_conversion.js)
+
 
 
 
